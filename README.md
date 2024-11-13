@@ -1,11 +1,15 @@
 <h1>Conta bancária em Java</h1>
 
-<h3>O que é o projeto?</h3>
-<h3>Como foi feito?</h3>
-<h3>Como funciona?</h3>
-<h3>Conclusão</h3>
-
 <p>Olá, pessoal! Meu primeiro projeto na linguagem Java! Para a minha felicidade, consegui desenvolver esse projeto sem dificuldades, e ainda aprendi durante o desenvolvimento. É ótimo perceber que o Java não é um monstro de 7 cabeças.</p>
+
+
+<p align="center">
+ <a href="">O que é o projeto?</a> •
+ <a href="">Como foi feito?</a> • 
+ <a href="">Como funciona?</a> • 
+ <a href="">Conclusão</a>
+</p>
+
 
 <h1>O que é o projeto?</h1>
 
