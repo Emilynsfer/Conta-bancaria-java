@@ -4,10 +4,10 @@
 
 
 <p align="center">
- <a href="">O que é o projeto?</a> •
- <a href="">Como foi feito?</a> • 
- <a href="">Como funciona?</a> • 
- <a href="">Conclusão</a>
+ <a href="#O que é o projeto?">O que é o projeto?</a> •
+ <a href="#Como foi feito?">Como foi feito?</a> • 
+ <a href="#Como funciona?">Como funciona?</a> • 
+ <a href="#Conclusão">Conclusão</a>
 </p>
 
 
