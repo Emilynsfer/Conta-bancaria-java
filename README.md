@@ -27,7 +27,7 @@
 
 # Conclusão
 
-<p>O projeto possui nível baixo de complexidade, afinal eu estou somente começando os meus estudos em Java. Porém até chegar aos nívies complexos a gente começa com os níveis básicos. </p>
+<p>O projeto inicialmente possuia um nível baixa complexidade, porém eu adicionei melhorias no código para explorar novos conceitos, como validação de informações e ações básicas para o usuário poder interagir mais com o código. Exemplo, opção de saque e depósito foram algumas das melhorias que eu acrescentei no projeto. </p>
 
 <p>Muito obrigada pela atenção! Me acompanhe no linkedin ou dio:</p>
 
