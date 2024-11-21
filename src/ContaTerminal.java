@@ -74,7 +74,7 @@ public class ContaTerminal {
             resposta = dadosContaCliente.nextLine();
             
             if (resposta.equalsIgnoreCase("sim")) {
-                System.out.println("Digite o valor do que saque: ");
+                System.out.println("Digite o valor do saque: ");
                 double valorSaque = dadosContaCliente.nextDouble();
                 dadosContaCliente.nextLine();
                 conta.sacar(valorSaque);
