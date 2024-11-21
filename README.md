@@ -1,22 +1,35 @@
-<<<<<<< HEAD
-## Getting Started
+<h1>Conta bancária em Java</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p>Olá, pessoal! Meu primeiro projeto na linguagem Java! Para a minha felicidade, consegui desenvolver esse projeto sem dificuldades, e ainda aprendi durante o desenvolvimento. É ótimo perceber que o Java não é um monstro de 7 cabeças.</p>
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+<p align="center">
+ <a href="#projeto">Projeto</a> •
+ <a href="#desenvolvimento">Desenvolvimento</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#Conclusão">Conclusão</a>
+</p>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<p>Estou realizando o bootcamp de Java com Spring Boot da DIO em parceria com a Claro. Esse projeto é um desafio da trilha de estudos do bootcamp, com a finalidade de comprovar que aprendemos os conceitos estudados durante a trilha anteriormente. Neste projeto eu explorei as váriaveis, métodos, classes e aprendi na prática a coletar dados do usuário através do terminal.</p>
 
-## Dependency Management
+# Desenvolvimento
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Conta-bancaria-em-Java-
->>>>>>> 8db5389a2ab8b11385511baeaafc11f5779b5f3d
+<p>Para fazer este projeto eu utilizei o VS code como a minha IDE e instalei alguns pacotes recomendados para desenvolver projetos na linguagem Java. Foi necessário instalar também o JDK 8. Após concluída as instalções, eu iniciei a criação do projeto utilizando o comando Ctrl + shift + p. Criei o meu projeto <strong>dentro da pasta src.</strong></p>
+
+<p>No desafio eu precisava desenvolver alguns pré requisitos, como criar a variável Nome do cliente e o saldo, por exemplo. O código foi desenvolvido de forma livre, somente algumas requisições foram solicitadas para garantir que o código não fugisse da proposta principal. </p>
+
+# Funcionalidades
+
+<p>O projeto solicita ao usuário algumas informações, como o nome do usuário e a sua agência. O código armazena os dados inseridos pelo usuário e entâo imprime uma mensagem padrão com os dados informados pelo usuário. Exemplo: "Qual o seu nome?" Resposta do usuário: Bruno. Mensagem de saída no terminal: Olá, Bruno! Seja bem-vindo.</p>
+
+# Conclusão
+
+<p>O projeto possui nível baixo de complexidade, afinal eu estou somente começando os meus estudos em Java. Porém até chegar aos nívies complexos a gente começa com os níveis básicos. </p>
+
+<p>Muito obrigada pela atenção! Me acompanhe no linkedin ou dio:</p>
+
+<h3><strong>Linkedin:</strong> emilynsfer013</h3>
+<h3><strong>DIO:</strong>Emilynsfer</h3>
